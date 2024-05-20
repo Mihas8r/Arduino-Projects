@@ -64,5 +64,14 @@ Rain level 98. All leds on
 ![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/f5bfa8e6-bc13-40dd-8a97-57668634b034)
 
 
+4.Temperature sensor
+
+This project measures the temperature using a DS18B20 temperature sensor and displays the temperature reading on an LCD screen.
+
+
+<img width="470" alt="Temperature_sensor" src="https://github.com/Mihas8r/Arduino-Projects/assets/92221038/e1a9841a-92ee-432d-988f-e2044b75fe4a">
+
+
+
 
 
