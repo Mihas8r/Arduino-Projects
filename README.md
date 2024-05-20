@@ -73,5 +73,13 @@ This project measures the temperature using a DS18B20 temperature sensor and dis
 
 
 
+5.Traffic Light System
+
+Simulate a traffic light for learning about sequencing and timing.
+
+
+<img width="267" alt="Traffic Light System" src="https://github.com/Mihas8r/Arduino-Projects/assets/92221038/bdfee841-92d4-4201-aea6-905e3e8d79b6">
+
+
 
 
