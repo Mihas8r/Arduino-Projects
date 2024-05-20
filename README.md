@@ -21,16 +21,29 @@ Low light (e.g., evening or night): The servo motor will move to close the blind
 
 
 Rain level 0. All leds OFF
-![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/c65ef7b7-b902-4a3a-b0b4-1f62a0b39747)
+![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/141d749b-9191-445b-81a3-04cf74cb52d3)
+
 
 
 Rain level 24. On-Off cycle led is on, also the first led is on ( speed 10% )
-![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/cdd0fe6a-41e6-4a04-8492-c8433ae98d94)
+![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/a12db89a-5eff-4161-b4f3-1b0d4085b229)
+
 
 
 
 Rain level 52. Two leds on
-![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/5c1f7137-70e1-463e-9744-f9544d239545)
+![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/a90905db-3dc1-4bcd-936f-e306254f8781)
+
+
+
+Rain level 74. Three leds on
+![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/d6fcbbcf-ead4-4e38-b72a-8fd7530834a4)
+
+
+
+
+Rain level 98. All leds on
+![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/f5bfa8e6-bc13-40dd-8a97-57668634b034)
 
 
 
