@@ -21,6 +21,13 @@ Low light (e.g., evening or night): The servo motor will move to close the blind
 
 
 
+3.Automatic Wiper ECU
+
+We need to read the rain level from a sensor, which is a potentiometer in our case, and adjust the speed of the wipers accordingly. In each 20 ms cycle, I read the sensor's value and make decisions using if/else conditional statements. I have written functions for each state and call them within the main loop. (ex. turnAllLedsOn).
+
+
+
+
 Rain level 0. All leds OFF
 
 ![image](https://github.com/Mihas8r/Arduino-Projects/assets/92221038/141d749b-9191-445b-81a3-04cf74cb52d3)
